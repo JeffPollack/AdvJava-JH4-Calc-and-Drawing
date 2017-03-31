@@ -1,0 +1,35 @@
+JH4 worksheet
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH4:
+Discussion board containing your entry: Painting Buttons 
+Date of your Entry: 10/18/2015
+Subject Line of your entry: Button Order Ideas
+
+
+***************** calculator    *****************
+
+Run your program and make a JING video where you demo your program. I would like audio on this. 
+Save the JING on the JING web site so you will have a URL of your video. Place the URL to your JING 
+below:
+
+http://screencast.com/t/hfoq74tuLw
+
+____________________________________
+***************** calculator_applet    *****************
+
+Run your program and make a JING video where you demo your program. I would like audio on this. 
+Save the JING on the JING web site so you will have a URL of your video. Place the URL to your JING 
+below:
+
+http://screencast.com/t/xSLgYq5nTzGq
+____________________________________
+***************** second_shape_drawing    *****************
+
+Run your program and make a JING video where you demo your program. I would like audio on this. 
+Save the JING on the JING web site so you will have a URL of your video. Place the URL to your JING 
+below:
+
+http://screencast.com/t/Rldti8HyY
+
+____________________________________
